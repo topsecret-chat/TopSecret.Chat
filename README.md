@@ -11,4 +11,4 @@ Do you need any help? Ask to the official technical support:
 Keep track of deployed changes by checking out the release notes:
 * [Releases](https://github.com/topsecret-chat/topsecret-chat/releases)
 
-Please visit [TopSecret.Chat](https://topsecret.chat)  to know more about chatting with real privacy, top-secret security and untraceable content.
+Please visit [TopSecret.Chat](https://topsecret.chat)  to know more about communicating with real privacy, top-secret security and untraceable content.
