@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/100089037/155227916-f37e81cb-9a42-45fa-bd73-c34f3a9da669.png)
+![155227916-f37e81cb-9a42-45fa-bd73-c34f3a9da669](https://user-images.githubusercontent.com/100089037/157646862-e3d2dafa-be22-4cbe-85a0-633bed66f936.png)
 
 # TopSecret Chat &trade;
 
