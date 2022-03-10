@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/100089037/155227916-f37e81cb-9a42-45fa-bd73-c34f3a9da669.png)
 
-# TopSecret Chat
+# TopSecret Chat &trade;
 
 Do you need any help? Ask to the official technical support:
 * [Report a Bug](https://github.com/topsecret-chat/topsecret-chat/issues/new?assignees=&labels=bug&template=bug.md&title=%5BBUG%5D+)
