@@ -4,7 +4,7 @@
 
 If you have identified a vulnerability or you would like to report a potential threat, please use one of the following options:
 
-- Create a new [Draft Security Advisory](https://github.com/topsecret-chat/topsecret-chat/security/advisories/newabout)
+- Create a new [Draft Security Advisory](https://github.com/topsecret-chat/topsecret-chat/security/advisories/new)
 - Contact us using the [Online Form](https://topsecretchat.ddns.net/app/contactus/contactus.html) 
 - Send an email to support@topsecret.chat
 
