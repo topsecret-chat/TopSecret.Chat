@@ -18,7 +18,7 @@ Keep track of deployed changes by checking out the release notes:
 
 As all your communications are classified as `top-secret`, also the core-engine's Source Code is `top-secret` too. 
 
-We operate wiht a _zero-trust policy_ for total protection, working 24/7 to keep it that way!
+We operate with a _zero-trust policy_ for total protection, working 24/7 to keep it that way!
 We use __GitHub__ only as a public "Tracking System", so that users can report issues and follow up on release notes.
 
 If you wish to know more unclassified information, please check out the [Features](https://topsecret.chat/en/features/) on our website.
