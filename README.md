@@ -18,7 +18,7 @@ Keep track of deployed changes by checking out the release notes:
 
 As all your communications are classified as `top-secret`, also the engine's Source Code is `top-secret` too. 
 
-We operate with a `zero-trust policy` for total protection and exposing the Source Code to the public does not imply that vulnerabilities are actually reported in a timely manner, making the life easier to hackers. 
+We operate with a `zero-trust policy` for total protection and exposing the Source Code does not imply that vulnerabilities are actually reported in a timely manner, making the life easier to hackers. 
 
 Peer-reviews are usually conducted on systems classified at most as secret, but never top-secret. Ask yourself if a Security Agency or Defence Department would disclose the details of their top-secret technologies... simply not.
 
