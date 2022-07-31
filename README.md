@@ -20,7 +20,7 @@ As all your communications are classified as `top-secret`, also the engine's Sou
 
 We operate with a `zero-trust policy` for total protection and exposing the Source Code does not imply that vulnerabilities are actually reported in a timely manner, making the life easier to hackers. 
 
-Peer-reviews are usually conducted on systems classified at most as secret, but never top-secret. Ask yourself if a Security Agency or Defence Department would disclose the details of their top-secret technologies... simply not.
+Peer-reviews are usually conducted on systems classified at most as secret, but not top-secret. Ask yourself if a Security Agency or Defence Department would disclose the details of their top-secret technologies... simply not.
 
 We use __GitHub__ only as a public "Tracking System", so that users can report issues and follow up on release notes.
 
