@@ -14,14 +14,15 @@ Ask to the official technical support:
 Keep track of deployed changes by checking out the release notes:
 * [Releases](https://github.com/topsecret-chat/topsecret-chat/releases)
 
-## Can I review the Source Code?
+## Can I peer-review the Source Code?
 
-As all your communications are classified as `top-secret`, also the core-engine's Source Code is `top-secret` too. 
+As all your communications are classified as `top-secret`, also the engine's Source Code is `top-secret` too. 
 
-We operate with a _zero-trust policy_ for total protection, working 24/7 to keep it that way!
+We operate with a `zero-trust policy` for total protection and exposing the Source Code to the public does not imply that vulnerabilities are actually reported in a timely manner, making the life easier to real hackers. 
+
+Peer-reviews are usually conducted on systems classified at most as secret, but never top-secret. Ask yourself if a Security Agency or Defence Department would disclose the details of their top-secret technologies... simply not.
+
 We use __GitHub__ only as a public "Tracking System", so that users can report issues and follow up on release notes.
-
-Exposing the Source Code to the public (aka `peer-review`), does not imply that vulnerabilities are actually reported in a timely manner, making the life easier to hackers and widening the risk of compromising your security and privacy. This is why peer-reviews are usually conducted on systems classified (at most) as secret, but not top-secret. Ask yourself if a Security Agency or Defence Department would disclose the details of their top-secret technologies... simply not.
 
 If you wish to know more unclassified information, please check out the [Features](https://topsecret.chat/en/features/) on our website.
 
