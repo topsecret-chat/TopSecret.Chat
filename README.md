@@ -19,7 +19,7 @@ Keep track of deployed changes by checking out the release notes:
 As all your communications are classified as `top-secret`, also the engine's Source Code is `top-secret` too.
 Peer-reviews are usually conducted on systems classified at most as secret, but not top-secret. 
 
-We operate with a `zero-trust policy` for total protection and we use __GitHub__ only as a public "Tracking System", so that users can report issues and follow up on release notes.
+We operate with a [zero-trust](https://en.wikipedia.org/wiki/Zero_trust_security_model) policy for total protection and we use __GitHub__ only as a public "Tracking System", so that users can report issues and follow up on release notes.
 
 If you wish to know more unclassified information, please check out the [Features](https://topsecret.chat/en/features/) on our website.
 
