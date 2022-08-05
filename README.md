@@ -16,9 +16,9 @@ Keep track of deployed changes by checking out the release notes:
 
 ## Can I peer-review the Source Code?
 
-All your communications are classified as `top-secret` and the _core-engine_'s Source Code is `top-secret` too, but you are free to inspect the _client-side_ Source Code that is naturally exposed to the users. Peer-reviews are usually conducted on systems classified at most as secret, but not top-secret. 
+All your communications are classified as `top-secret` and the _core-engine_'s Source Code is `top-secret` too, but you are free to inspect the _client-side_ Source Code that is naturally exposed to the users.
 
-We operate with a [Zero trust](https://en.wikipedia.org/wiki/Zero_trust_security_model) policy for total protection and we use __GitHub__ only as a public "Tracking System", so that users can report issues and follow up on release notes.
+We operate with a [Zero trust](https://en.wikipedia.org/wiki/Zero_trust_security_model) policy for total protection and we use __GitHub__ only as a public "Tracking System", for users to report issues and to follow up on the release notes.
 
 If you wish to know more unclassified information, please check out the [Features](https://topsecret.chat/en/features/) on our website.
 
