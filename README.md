@@ -2,7 +2,7 @@
 
 # TopSecret Chat &trade;
 
-Please visit [TopSecret.Chat](https://topsecret.chat)  to know more about messaging with real privacy, top-secret security, untraceable content and complete anonymity.
+Please visit [TopSecret.Chat](https://topsecret.chat)  to know more about messaging with top-secret security, untraceable content and anonymous identity.
 
 ## Do you need any help? 
 Ask to the official technical support:
@@ -14,13 +14,31 @@ Ask to the official technical support:
 Keep track of changes by checking out the release notes:
 * [Releases](https://github.com/topsecret-chat/topsecret-chat/releases)
 
+
+
+## Collaborate
+
+Are you curious about helping?
+Everybody can contribute with suggestions to improve the service and reporting bugs. For example, you can help us translating TopSecret Chat in your language.
+
+
+
 ## Can I peer-review the Source Code?
 
-All your communications are classified as `top-secret` and our source-code too. The core-engine is kept secret and deployed highly encrypted to elude mass-surveillance programs world-wide.
+All your communications are classified as `top-secret` and our source-code too. The core-engine is kept secret and has a highly encrypted deployment to elude mass-surveillance programs world-wide.
 
-On the contrary, we use **Open-Source** code for the client-side interface that is naturally exposed and that you can freely inspect.
+However, we use some **Open-Source** code, maily for the client-side interface that is naturally exposed and available for you to freely inspect.
 
-We operate with the [Zero trust](https://en.wikipedia.org/wiki/Zero_trust_security_model) security model for complete protection and we use [GitHub](https://github.com/topsecret-chat/topsecret-chat/issues) only as a public "Issue Tracking System" for users to report issues and to follow up on the release notes.
+We operate with the [Zero trust](https://en.wikipedia.org/wiki/Zero_trust_security_model) security model for complete protection and we use [GitHub](https://github.com/topsecret-chat/topsecret-chat/issues) only as a public "_Issue Tracking System_" for users to report errors, suggestions and to follow up on the release notes.
 
-If you wish to know more unclassified information, please check out the [Features](https://topsecret.chat/en/features/) on our website.
+For more information, please check out the main [Features](https://topsecret.chat/en/features/) on our website.
 
+
+
+## Donate
+
+TopSecret Chat is funded and resourced by the `free` and `non-profit` collaboration of volunteers and users like you. Maintaining the service requires developers, engineers, security specialists, a network infrastructure and... a lot of good will!
+
+Donations are never linked to your TopSecret Chat account and can be anonymous. 
+
+The best way to ensure TopSecret Chat remains available and free is to make a [Donation](https://donorbox.org/topsecret-chat-en)
