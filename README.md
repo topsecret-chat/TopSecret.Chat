@@ -2,8 +2,8 @@
 
 # TopSecret Chat &trade;
 
-This space is used as an [Issue Tracking System](https://github.com/topsecret-chat/topsecret-chat/issues) for users to report errors, suggestions and to follow up on the release notes.
-Please visit [TopSecret.Chat](https://topsecret.chat)  to know more about messaging with untraceable content, anonymous identity and military-grade security.
+This space is used as the [Issue Tracking System](https://github.com/topsecret-chat/topsecret-chat/issues) for users to report errors, suggestions and to follow up on the release notes about the App.
+Please visit [TopSecret.Chat](https://topsecret.chat) to know more about our advanced `OTR (Off-The-Record)` messaging with untraceable content, anonymous identity and military-grade security.
 
 ## Do you need any help? 
 * [Report a Bug](https://github.com/topsecret-chat/topsecret-chat/issues/new?assignees=&labels=bug&template=bug.md&title=%5BBUG%5D+)
@@ -16,13 +16,12 @@ Keep track of changes by checking out the release notes:
 
 ## Collaborate
 
-Are you curious about helping?
-Everybody can contribute with suggestions to improve the service and reporting bugs. For example, you can help us translating TopSecret Chat in your language.
-
+Contribute with suggestions, report errors and help translating the App in other languages.
+Get involved and partecipate in the discussions.
 
 ## Is it Open-Source?
 
-Currently, the code is proprietary and not published under an Open-Source license.
+TopSecret Chat's core-engine is a proprietary technology, not released under an Open-Source license.
 The Android and iOS packages are signed for authenticity and the server-code is deployed encrypted to avoid tampering and elude mass-surveillance programs. 
 If you choose the anonymous download of the [Android APK](https://topsecret.chat/en/platforms/) from our server, please verify the integrity of the the _SHA256 File Checksum_.
 
@@ -30,7 +29,7 @@ However, we also reference some [Open-Source](https://github.com/topsecret-chat)
 
 ## Donate
 
-TopSecret Chat is funded and resourced by the `free` and `non-profit` collaboration of volunteers, united under the non-governmental organization [Bona Fide NGO](https://bonafide.ngo) that is engaged in social impact missions.
+TopSecret Chat is funded and resourced by the `free` and `non-profit` collaboration of volunteers in the non-governmental organization [Bona Fide NGO](https://bonafide.ngo) that is engaged in social impact missions.
 Donations are never linked to your TopSecret Chat account and can be anonymous. 
 
 The best way to ensure TopSecret Chat remains available and free is to make a [Donation](https://donorbox.org/topsecret-chat-en)
